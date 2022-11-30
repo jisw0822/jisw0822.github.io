@@ -21,7 +21,7 @@
 title: MY BLOG
 email: jisw0822@kookmin.ac.kr
 description: >- # this means to ignore newlines until "baseurl:"
-  여부도 없이 시들던 꽃도 되살리는 불씨가 너라
+  부디 너의 맘에 하얗게 내린 눈꽃이 차갑게 얼지 않기를
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jisw0822.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -37,10 +37,8 @@ comment:
   provider:        "disqus"
   disqus:
     shortname:     "jisw0822"
-analytics:
-  provider: "google"
-  google:
-    google_analytics: "UA-250483978-1"
+
+google_analytics: "UA-250483978-1"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
