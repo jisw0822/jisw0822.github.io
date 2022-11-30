@@ -18,9 +18,10 @@ google_analytics: "UA-250483978-1"
 
 4.  *head.html*에 다음의 코드를 추가한다.
 
+'''
 if site.google_analytics and jekyll.environment == 'production'
 include google_analytics.html
-
+'''
 
 5. 완성
 ![analytics](image/ana.png)
