@@ -36,4 +36,4 @@ google_analytics: "UA-250483978-1"
 ```
 
 5. 완성
-[analytics]
+![analytics](image/ana.png)
