@@ -24,11 +24,17 @@
 
 1. [Lanyon](https://github.com/poole/lanyon) 테마에서 Download ZIP 을 통해 로컬 저장소(jisw0822.github.io)에 파일 저장
 
+![Download ZIP](image/downloadzipimage.png)
+
+![local](image/themeimage.png)
+
 2. *_config.yml* 파일에서 블로그 이름 등 기본 정보를 변경
 
 3. *default.html* 파일에서 `<body class="theme-base-0b">` 코드 추가를 통해 테마 색상 변경
 
 3. `git add`, `git commit -m "메세지"`, `git push origin main` 등의 명령을 통해  변경사항을 git에 반영
+
+![color](image/colorthemeimage.png)
 
 
 ## Add Comment Function
