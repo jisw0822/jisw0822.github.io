@@ -40,7 +40,7 @@ comment:
 analytics:
   provider: "google"
   google:
-    tracking_id: "G-NS2J3XMDWV"
+    google_analytics_id: "G-NS2J3XMDWV"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
