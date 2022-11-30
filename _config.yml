@@ -32,6 +32,16 @@ theme: minima
 plugins:
   - jekyll-feed
 
+
+comment:
+  provider:        "disqus"
+  disqus:
+    shortname:     "jisw0822"
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "G-NS2J3XMDWV"
+
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
